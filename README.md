@@ -1,2 +1,2 @@
 # RoboticProject
-The Robotic Project will start from here..
+The Robotic Project is from here..
